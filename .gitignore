@@ -332,3 +332,5 @@ ASALocalRun/
 **/temp.json
 **/dist
 **/.env
+/start/server/sample.local.settings.json
+/start/server/package-lock.json
